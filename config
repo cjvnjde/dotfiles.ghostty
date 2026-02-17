@@ -2,5 +2,4 @@ font-family = "FiraCode Nerd Font"
 
 theme = "Catppuccin Mocha"
 
-
-confirm-close-surface = true
+confirm-close-surface = false 
