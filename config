@@ -7,5 +7,5 @@ confirm-close-surface = false
 
 keybind = global:ctrl+grave_accent=toggle_quick_terminal
 quick-terminal-position = top
-quick-terminal-animation-duration = 0.1
+quick-terminal-animation-duration = 0
 quick-terminal-autohide = true
