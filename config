@@ -1,5 +1,5 @@
 font-family = "FiraCode Nerd Font"
-theme = "light:Catppuccin Latte,dark:Catppuccin Mocha"
+theme = "Catppuccin Mocha"
 background-opacity = 0.9
 background-blur-radius = 20
 
