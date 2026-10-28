@@ -1,4 +1,6 @@
-font-family = "FiraCode Nerd Font"
+# Keep machine font choices in config.local. Unquoted syntax also avoids the
+# installed Omarchy font setter rewriting this shared preference.
+font-family = FiraCode Nerd Font
 theme = "Catppuccin Mocha"
 background-opacity = 0.9
 background-blur-radius = 20
@@ -9,3 +11,6 @@ keybind = global:ctrl+grave_accent=toggle_quick_terminal
 quick-terminal-position = top
 quick-terminal-animation-duration = 0
 quick-terminal-autohide = true
+
+# Optional machine configuration; included values override shared settings.
+config-file = ?config.local
